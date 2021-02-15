@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme477-art.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme477-art.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://theme477-art.myshopify.com/blogs/news/tagged/impressionism.atom"/>
+  <title>Artiforia - News</title>
+  <updated>2018-10-07T21:59:30-12:00</updated>
+  <author>
+    <name>Artiforia</name>
+  </author>
+  <entry>
+    <id>https://theme477-art.myshopify.com/blogs/news/in-this-case-our-services-are-what-you-need</id>
+    <published>2018-10-07T21:58:39-12:00</published>
+    <updated>2018-10-07T21:58:39-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme477-art.myshopify.com/blogs/news/in-this-case-our-services-are-what-you-need"/>
+    <title>In this case, our services are what you need.</title>
+    <author>
+      <name>Odin Om</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 style="text-align: center;"></h1>
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/uE4ySMV542Y" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Fortunately, our team will be with you from the moment you enter our online gallery to the day your artwork is delivered.If you are eager to explore and experiment, contact us and we'll make this procedure easier for you.</p>
+<p> </p>
+<li><span>Expressionism </span></li>
+<li><span>Minimalism</span></li>
+<li><span>Romanticism</span></li>
+<li><span>Realism </span></li>
+<li><span>Impressionism</span></li>
+<p> </p>
+<p>You'll have an opportunity to look through numerous artworks at any time without leaving your house.You'll have an opportunity to look through numerous artworks at any time without leaving your house. You'll have an opportunity to look through numerous artworks at any time without leaving your house.</p>
+<p>Are you eager to obtain a unique piece of art rather than something used in 9 out of 10 places?Its main goal is to bring talented artists together with connoisseurs of art as well as provide the latter with access to top-notch paintings and whatever you can think of.</p>]]>
+    </content>
+  </entry>
+</feed>
